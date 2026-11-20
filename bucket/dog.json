@@ -1,18 +1,18 @@
 {
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "Command-line DNS client with colourful output, DoT, DoH and JSON",
     "homepage": "https://github.com/l1a/dog",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/l1a/dog/releases/download/v0.9.0/dog-v0.9.0-windows-x86_64.zip",
-            "hash": "e1d913f5a5d948da28f1b20d5fa7b2127885d3dfdb6e823ceceaacb204765b26",
-            "extract_dir": "dog-v0.9.0-windows-x86_64"
+            "url": "https://github.com/l1a/dog/releases/download/v0.9.1/dog-v0.9.1-windows-x86_64.zip",
+            "hash": "2940b79ae7413500e21148e07b104a0d65db7599dea22ff662318529ec9600d0",
+            "extract_dir": "dog-v0.9.1-windows-x86_64"
         },
         "arm64": {
-            "url": "https://github.com/l1a/dog/releases/download/v0.9.0/dog-v0.9.0-windows-aarch64.zip",
-            "hash": "c921e5284900be2673def467dab8565949bfb9f3dacb05072e791f59cb34e5f8",
-            "extract_dir": "dog-v0.9.0-windows-aarch64"
+            "url": "https://github.com/l1a/dog/releases/download/v0.9.1/dog-v0.9.1-windows-aarch64.zip",
+            "hash": "f3fe03c4f961310e81c629f67cbdb11bc51453dbbac8723d40a11cd548e340b2",
+            "extract_dir": "dog-v0.9.1-windows-aarch64"
         }
     },
     "bin": "bin\\dog.exe",
